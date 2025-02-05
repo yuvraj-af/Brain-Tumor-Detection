@@ -15,9 +15,7 @@ The model was trained using a dataset of MRI images, and the final model is save
 - Easy-to-use interface for image upload and result display.
 - Built using TensorFlow/Keras for model training and OpenCV for image processing.
 
-**This application was made by a _Rookie_ programmer, so it is bound to have numerous flaws. No clean architecture techniques were adopted.**
-
-**To anyone who wants to use the project, I've made this in Python 3.x with TensorFlow 2.x, Keras, and Tkinter for the GUI.**
+**To anyone who wants to use the project, I've made this in Python with TensorFlow, Keras, and Tkinter for the GUI.**
 
 ### Requirements:
 - TensorFlow
@@ -27,4 +25,4 @@ The model was trained using a dataset of MRI images, and the final model is save
 - scikit-learn
 - Tkinter (included with Python)
   
-Feel free to clone and modify this project for learning or experimentation!
+Feel free to clone and modify this project for learning.
